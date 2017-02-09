@@ -1,13 +1,12 @@
 ---
-title: About Hagura
+title: About
 layout: post
 permalink: /about/
 published: true
 ---
 
-For more themes please visit [https://blog.webjeda.com](https://blog.webjeda.com)
+I'm a `<%= Date.today.year - 1990 %>` year-old coder from England who primarily works with Ruby on Rails. This blog is where I muse about Rails, Ruby, web development, and other code-related matters.
 
-Does the theme deserve a star?
+I can also be found on [GitHub](https://github.com/georgemillo), [Twitter](https://twitter.com/georgemillo), [my other (non-tech) blog](http://georgemillo.com), and in all good bookstores.
 
-<a class="github-button" href="https://github.com/sharu725/hagura" data-style="mega" data-count-href="/sharu725/hagura/stargazers" data-count-api="/repos/sharu725/hagura#stargazers_count" data-count-aria-label="# stargazers on GitHub" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+Want to work with me? Just [send an email](mailto:{{site.email}}).
