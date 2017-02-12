@@ -4,4 +4,7 @@ layout: default
 <h1 class="headline">{{site.title}}</h1>
 {% for post in site.posts %}
 <h3><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h3>
+<p>{{ post.excerpt }}</p>
+<p><em><a href="{{post.url | prepend: site.baseurl}}">Read more...</a></em></p>
+
 {% endfor %}
