@@ -7,6 +7,12 @@ layout: default
 </div>
 {{content}}
 
+{% unless page.hide_github_link %}
+  <hr>
+
+  <p><em>Want to make an improvement or correction to this article? <a href='https://github.com/georgemillo/millodotme/tree/master/_posts'>Submit a PR on Github</a></em></p>
+{% endunless %}
+
 <!-- Comments only for posts -->
 {% if page.path contains '_posts' %}
     {% if site.disqus-shortname %}

@@ -3,6 +3,7 @@ title: About
 layout: post
 permalink: /about/
 published: true
+hide_github_link: true
 ---
 
 I'm a `<%= Date.today.year - 1990 %>` year-old coder from England who primarily works with Ruby on Rails. This blog is where I muse about Rails, Ruby, web development, and other code-related matters.

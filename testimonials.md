@@ -3,6 +3,7 @@ title: Testimonials
 layout: post
 permalink: /testimonials/
 published: true
+hide_github_link: true
 ---
 
 Want to work with me? [Get in touch](mailto:{{site.email}}).
