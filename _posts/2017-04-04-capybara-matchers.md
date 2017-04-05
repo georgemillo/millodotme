@@ -5,7 +5,7 @@ permalink: capybara-unused-parameters
 published: true
 ---
 
-I love Capybara but there's one little snag that keeps tripping me up. Have a look at the following RSpec code and see if you can spot the problem:
+I love Capybara but it has one little snag that keeps tripping me up. Have a look at the following RSpec code and see if you can spot the problem:
 
 {% highlight ruby %}
 example 'show user page' do
