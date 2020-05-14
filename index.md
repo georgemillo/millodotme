@@ -1,14 +1,19 @@
 ---
-title: Testimonials
-layout: post
-permalink: /testimonials/
+# title: About
+layout: default
 published: true
 hide_github_link: true
 ---
 
-Want to work with me? [Get in touch](mailto:{{site.email}}).
+<h1>George Millo - Software Engineer</h1>
 
-Here's what some of my former clients have to say about me:
+I'm a `<%= Date.today.year - 1990 %>` year-old coder from England, currently a mature undergraduate studying Computer Science at the University of Oxford. Before starting my BA I worked for 4.5 years as a startup founder and full-stack web developer. I graduate in June 2020 and am currently looking for work in London or remote.
+
+The bulk of my past experience has been with Ruby on Rails. I'm interested in future work involving Elixir, Phoenix, and/or React.js and React Native. More generally I'm interested in sustainability, cleantech/greentech, AI and machine learning, linguistics and language-learning, and any combination of the above.
+
+For more about me see [GitHub](https://github.com/georgemillo) and [LinkedIn](https://www.linkedin.com/in/millog/), or [send me an email](mailto:{{site.email}}).
+
+<br>
 
 <blockquote>
   <img src="{{ site.url }}/images/jesse.jpg" alt="Jesse" style='float:left; margin: 0 20px 20px 0;' height="130px" width="130px">
@@ -16,7 +21,7 @@ Here's what some of my former clients have to say about me:
   <p>“George is brilliant, multi-faceted, curious, and conscientious in a way that normally comes after only a decade’s-worth of extra mistakes — mistakes I know he’s been unable to log at his young age.  I’d enthusiastically work with him again on any task requiring brains and gumption.”</p>
 
   <p style="clear:both;">
-    Jesse Lawler, <a href="https://itviec.com/companies/evil-genius-technologies-llc">Evil Genius Technologies</a> +<a href="http://smartdrugsmarts.com">SmartDrugSmarts</a>
+    Jesse Lawler, <a href="https://itviec.com/companies/evil-genius-technologies-llc">Evil Genius Technologies</a>
   </p>
 </blockquote>
 
@@ -31,6 +36,8 @@ Here's what some of my former clients have to say about me:
     Daniel Martin, <a href="https://dradisframework.com/index.html">Security Roots</a>
   </p>
 </blockquote>
+
+<div style="clear:both;"></div>
 
 <blockquote>
   <img src="{{ site.url }}/images/evan.png" alt="Evan" style='float:left; margin: 0 20px 20px 0;' height="130px" width="130px">
