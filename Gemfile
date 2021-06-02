@@ -10,8 +10,5 @@ gem 'github-pages', versions['github-pages']
 
 gem 'jekyll'
 
-# github-pages depends on ffi, but I get an error trying to install more recent versions :(
-gem 'ffi', '1.11.1'
-
 gem 'jekyll-paginate'
 gem 'jekyll-theme-slate'
