@@ -1,3 +1,9 @@
+---
+# title: Testimonials
+layout: default
+published: true
+hide_github_link: true
+---
 <blockquote>
   <img src="{{ site.url }}/images/jesse.jpg" alt="Jesse" style='float:left; margin: 0 20px 20px 0;' height="130px" width="130px">
 
